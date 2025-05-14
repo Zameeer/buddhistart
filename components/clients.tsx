@@ -33,8 +33,8 @@ export default function Clients() {
             Client Experiences
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-16">
-            Hear from those who have transformed their spaces with our Buddhist
-            art.
+            Hear from our esteemed clients who have transformed their spaces
+            with our Buddhist art.
           </p>
         </div>
 

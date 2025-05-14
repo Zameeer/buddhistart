@@ -2,7 +2,7 @@
 const WechatButton = () => {
   return (
     <a
-      href="https://wechat.com" // Replace with your actual WeChat contact or redirect link
+      href="https://u.wechat.com/kGm9uRhb5-7Ja9ZMf84V8m0" // Replace with your actual WeChat contact or redirect link
       target="_blank"
       rel="noopener noreferrer"
       style={{

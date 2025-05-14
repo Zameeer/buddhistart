@@ -102,13 +102,13 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin className="h-6 w-6 text-[#f2906c] mr-3 flex-shrink-0" />
                 <span className="text-gray-300">
-                  123 Dharma Street, Serenity Valley, CA 90210
+                  Gokarneshwor-5, Jorpati, Kathmandu, Nepal
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-6 w-6 text-[#f2906c] mr-3 flex-shrink-0" />
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+9779818916817"
                   className="text-gray-300 hover:text-[#f2906c]"
                 >
                   +977 981-8916817
@@ -117,10 +117,10 @@ export default function Footer() {
               <li className="flex items-center">
                 <Mail className="h-6 w-6 text-[#f2906c] mr-3 flex-shrink-0" />
                 <a
-                  href="mailto:info@buddhistart.com"
+                  href="mailto:urkenlama111@gmail.com"
                   className="text-gray-300 hover:text-[#f2906c]"
                 >
-                  info@buddhistart.com
+                  urkenlama111@gmail.com
                 </a>
               </li>
             </ul>

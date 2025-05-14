@@ -12,7 +12,7 @@ export default function Contact() {
           <div className="text-3xl md:text-4xl font-bold text-gray-900">
             Call us:{" "}
             <a
-              href="tel:+1234567890"
+              href="tel:+9779818916817"
               className="hover:text-[#f2906c] transition-colors"
             >
               +977 981-8916817
@@ -21,10 +21,10 @@ export default function Contact() {
           <div className="text-3xl md:text-4xl font-bold text-gray-900">
             Email:{" "}
             <a
-              href="mailto:info@buddhistart.com"
+              href="mailto:urkenlama111@gmail.com"
               className="hover:text-[#f2906c] transition-colors"
             >
-              info@buddhistart.com
+              urkenlama111@gmail.com
             </a>
           </div>
           <p className="text-xl text-gray-600 max-w-2xl mt-6">
