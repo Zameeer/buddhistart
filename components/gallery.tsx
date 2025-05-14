@@ -76,7 +76,11 @@ const projects = [
       "/urgen/Nepal_Kathmandu/img2.jpeg",
     ],
     details: {
+<<<<<<< HEAD
       CLIENT: "His Eminence Yongdzin Lopon Tenzin Namdak Rinpoche",
+=======
+      Client: "His Eminence Yongdzin Lopon Tenzin Namdak Rinpoche",
+>>>>>>> d6363710f9ce10a2e1c1dff12965be55d3f1e2f1
       "Year of Work": "2024",
     },
   },
@@ -93,7 +97,11 @@ const projects = [
       "/urgen/Rinchenpong/Sikkim's Chief Minister with Rinpoche.jpg",
     ],
     details: {
+<<<<<<< HEAD
       CLIENT: "His eminence Tulku Sangay Yonten Gyatsho Rinpoche",
+=======
+      Client: "His eminence Tulku Sangay Yonten Gyatsho Rinpoche",
+>>>>>>> d6363710f9ce10a2e1c1dff12965be55d3f1e2f1
       "Year of Work": "2024",
     },
   },
@@ -110,7 +118,11 @@ const projects = [
       "/urgen/Himachal_Pradesh_2007/IMG-20250412-WA0048.jpg",
     ],
     details: {
+<<<<<<< HEAD
       CLIENT: "His Eminence Ngor Khangsar Shabdrung Rinpoche",
+=======
+      Client: "His Eminence Ngor Khangsar Shabdrung Rinpoche",
+>>>>>>> d6363710f9ce10a2e1c1dff12965be55d3f1e2f1
       "Year of Work": "2007",
     },
   },
@@ -123,7 +135,11 @@ const projects = [
       "/urgen/Jammu_Kashmir_Ladakh/KK_Rangdol.jpg",
     ],
     details: {
+<<<<<<< HEAD
       CLIENT: "Khenpo Konchok Rangdol",
+=======
+      Client: "Khenpo Konchok Rangdol",
+>>>>>>> d6363710f9ce10a2e1c1dff12965be55d3f1e2f1
       "Year of Work": "2009",
     },
   },
@@ -298,7 +314,11 @@ export default function Gallery() {
                         {project.location}
                       </p>
                       <p className="text-sm mt-1 line-clamp-2">
+<<<<<<< HEAD
                         {project.details.CLIENT}
+=======
+                        {project.description}
+>>>>>>> d6363710f9ce10a2e1c1dff12965be55d3f1e2f1
                       </p>
                       <button
                         onClick={(e) => {
@@ -353,7 +373,13 @@ export default function Gallery() {
               <p className="text-sm text-[#f2906c] mb-2">
                 {projects[expandedInfoIndex].location}
               </p>
+<<<<<<< HEAD
 
+=======
+              <p className="text-sm mb-3">
+                {projects[expandedInfoIndex].description}
+              </p>
+>>>>>>> d6363710f9ce10a2e1c1dff12965be55d3f1e2f1
               {projects[expandedInfoIndex].details && (
                 <div className="mt-2 border-t pt-3 space-y-2">
                   {Object.entries(projects[expandedInfoIndex].details).map(
