@@ -7,7 +7,7 @@ import Gallery from "@/components/gallery";
 import WhyChooseUs from "@/components/why-choose-us";
 import Footer from "@/components/footer";
 import Logo from "@/components/logo";
-
+import WelcomeSection from "@/components/WelcomeSection";
 export default function Home() {
   return (
     <main className="min-h-screen bg-white relative">
@@ -18,7 +18,7 @@ export default function Home() {
         <Logo />
       </div>
       <Hero />
-
+      <WelcomeSection />
       <Services />
       <Clients />
       <Gallery />

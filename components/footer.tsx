@@ -105,6 +105,20 @@ export default function Footer() {
                   Gokarneshwor-5, Jorpati, Kathmandu, Nepal
                 </span>
               </li>
+              <li>
+                <div className="rounded-md overflow-hidden mt-2 shadow-lg border border-[#f2906c]">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3531.742526016212!2d85.371890275468!3d27.72523487617233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjfCsDQzJzMwLjkiTiA4NcKwMjInMjguMSJF!5e0!3m2!1sen!2sin!4v1748424595556!5m2!1sen!2sin"
+                    width="100%"
+                    height="180"
+                    style={{ border: 0 }}
+                    allowFullScreen={true}
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    title="Google Maps Location"
+                  ></iframe>
+                </div>
+              </li>
               <li className="flex items-center">
                 <Phone className="h-6 w-6 text-[#f2906c] mr-3 flex-shrink-0" />
                 <a
@@ -112,6 +126,13 @@ export default function Footer() {
                   className="text-gray-300 hover:text-[#f2906c]"
                 >
                   +977 981-8916817
+                </a>
+
+                <a
+                  href="tel:+9779843106388"
+                  className="text-gray-300 hover:text-[#f2906c]"
+                >
+                  , +977 984-3106388
                 </a>
               </li>
               <li className="flex items-center">

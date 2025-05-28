@@ -40,14 +40,13 @@ const projects = [
     },
   },
   {
-    title: " SHYALA MONASTERY",
-    location: "CMANASLU, NEPAL",
+    title: "SHANDOK PALRI MONASTERY",
+    location: "SYALA, GORKHA, NEPAL",
     images: [
       "/urgen/Manaslu_Nepal/samagaun-monastery-scaled.jpg",
       "/urgen/Manaslu_Nepal/Manslu (5).jpg",
       "/urgen/Manaslu_Nepal/DSD. Rinpoche.jpeg",
       "/urgen/Manaslu_Nepal/Manslu (2).jpg",
-      "/urgen/Manaslu_Nepal/Manslu (3).jpg",
       "/urgen/Manaslu_Nepal/Manslu (4).jpg",
     ],
     details: {
