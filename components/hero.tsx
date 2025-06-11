@@ -46,7 +46,7 @@ export default function Hero() {
             src={image.src || "/placeholder.svg"}
             alt={image.alt}
             fill
-            className="object-cover"
+            className="object-cover min-h-[300px]"
             priority={index === 0}
           />
           <div className="absolute inset-0 bg-black/30" />
