@@ -58,7 +58,7 @@ export default function RootLayout({
         <link rel="canonical" href="https://urgenbuddhistart.com" />
         <meta
           name="google-site-verification"
-          content="kdvYwoOxBvJnGUlLhsJ3B7rHYrd0LSFDq8IHZJhJwkQ"
+          content="hLyXcJp37x-iYReuLH43poIWdMbWqv_JH7xLRN0PNW8"
         />
       </head>
       <body>
