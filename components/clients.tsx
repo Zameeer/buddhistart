@@ -1,23 +1,19 @@
 const clients = [
   {
-    name: "Dharma Mountain Monastery",
-    testimonial:
-      "The artwork created for our meditation hall has transformed the space into a truly sacred environment. The attention to detail and understanding of Buddhist symbolism is exceptional.",
-    role: "Head Monk",
+    name: "His Eminence Ngor Khangsar Shabdrung Rinpoche",
+    testimonial: "...Loading",
     image: "/urgen/Himachal_Pradesh_2007/HH_Rinpoche.jpg?height=400&width=400",
   },
   {
-    name: "Dharma Mountain Monastery",
-    testimonial:
-      "The artwork created for our meditation hall has transformed the space into a truly sacred environment. The attention to detail and understanding of Buddhist symbolism is exceptional.",
-    role: "Head Monk",
+    name: "His Eminence Khenpo Konchok Rangdol",
+    testimonial: "...Loading",
+
     image: "/urgen/Jammu_Kashmir_Ladakh/KK_Rangdol.jpg?height=400&width=400",
   },
   {
-    name: "Dharma Mountain Monastery",
-    testimonial:
-      "The artwork created for our meditation hall has transformed the space into a truly sacred environment. The attention to detail and understanding of Buddhist symbolism is exceptional.",
-    role: "Head Monk",
+    name: "His Eminence Yongdzin Lopon Tenzin Namdak Rinpoche",
+    testimonial: "...Loading",
+
     image: "/urgen/Nepal_Kathmandu/Rinpoche.jpeg?height=400&width=400",
   },
 ];
