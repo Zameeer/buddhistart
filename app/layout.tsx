@@ -20,12 +20,12 @@ export const metadata: Metadata = {
     "Nepal Buddhist projects",
   ],
   robots: "index, follow",
-  metadataBase: new URL("https://buddhistart.vercel.app"),
+  metadataBase: new URL("https://urgenbuddhistart.com"),
   openGraph: {
     title: "Buddhist Art & Monastery Designs",
     description:
       "Explore our traditional Buddhist art projects and sacred architectural works.",
-    url: "https://buddhistart.vercel.app",
+    url: "https://urgenbuddhistart.com",
     siteName: "Urgen Buddhist Art Consultancy",
     images: [
       {
@@ -55,7 +55,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://buddhistart.vercel.app" />
+        <link rel="canonical" href="https://urgenbuddhistart.com" />
         <meta
           name="google-site-verification"
           content="kdvYwoOxBvJnGUlLhsJ3B7rHYrd0LSFDq8IHZJhJwkQ"

@@ -10,8 +10,8 @@ export default function JsonLdOrganization() {
       "@context": "https://schema.org",
       "@type": "Organization",
       name: "Buddhist Art Consultancy",
-      url: "https://buddhistart.vercel.app",
-      logo: "https://buddhistart.vercel.app/logo.png",
+      url: "https://urgenbuddhistart.com",
+      logo: "https://urgenbuddhistart.com/logo.png",
     });
 
     document.head.appendChild(script);

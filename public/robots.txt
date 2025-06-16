@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://buddhistart.vercel.app
+Host: https://urgenbuddhistart.com
 
 # Sitemaps
-Sitemap: https://buddhistart.vercel.app/sitemap.xml
+Sitemap: https://urgenbuddhistart.com/sitemap.xml
