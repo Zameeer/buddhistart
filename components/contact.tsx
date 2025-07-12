@@ -1,5 +1,6 @@
 import WhatsappButton from "../components/WhatsappButton";
 import WechatButton from "../components/WechatButton";
+import FacebookButton from "../components/FacebookButton";
 export default function Contact() {
   return (
     <section id="contact" className="py-20 bg-gray-50">
@@ -39,6 +40,7 @@ export default function Contact() {
             We offer free consultations to discuss your vision and how we can
             bring sacred beauty to your space.
           </p>
+          <FacebookButton />
           <WechatButton />
           <WhatsappButton />
         </div>
