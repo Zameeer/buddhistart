@@ -18,7 +18,7 @@ const projects = [
       "urgen/Urgen new stuff/underconstruction/underconstruction2.jpeg",
       "urgen/Urgen new stuff/underconstruction/underconstruction3.jpeg",
       "urgen/Urgen new stuff/underconstruction/underconstruction1.jpeg",
-      "urgen/Urgen new stuff/underconstruction/underconstruction.jpeg",
+      "urgen/Urgen new stuff/underconstruction/underconstruction4.jpeg",
     ],
     details: {
       "Year of Work": "IN Progress",
