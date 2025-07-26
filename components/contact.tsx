@@ -30,10 +30,10 @@ export default function Contact() {
           <div className="text-3xl md:text-4xl font-bold text-gray-900">
             Email:{" "}
             <a
-              href="mailto:urkenlama111@gmail.com"
+              href="mailto:urgenart@gmail.com"
               className="hover:text-[#f2906c] transition-colors"
             >
-              urkenlama111@gmail.com
+              urgenart@gmail.com
             </a>
           </div>
           <p className="text-xl text-gray-600 max-w-2xl mt-6">

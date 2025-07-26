@@ -138,10 +138,10 @@ export default function Footer() {
               <li className="flex items-center">
                 <Mail className="h-6 w-6 text-[#f2906c] mr-3 flex-shrink-0" />
                 <a
-                  href="mailto:urkenlama111@gmail.com"
+                  href="mailto:urgenart@gmail.com"
                   className="text-gray-300 hover:text-[#f2906c]"
                 >
-                  urkenlama111@gmail.com
+                  urgenart@gmail.com
                 </a>
               </li>
             </ul>

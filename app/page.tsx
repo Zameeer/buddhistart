@@ -4,10 +4,12 @@ import Contact from "@/components/contact";
 import Services from "@/components/services";
 import Clients from "@/components/clients";
 import Gallery from "@/components/gallery";
+import Galleryold from "@/components/galleryold";
 import WhyChooseUs from "@/components/why-choose-us";
 import Footer from "@/components/footer";
 import Logo from "@/components/logo";
 import WelcomeSection from "@/components/WelcomeSection";
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-white relative">
@@ -22,6 +24,7 @@ export default function Home() {
       <Services />
       <Clients />
       <Gallery />
+      <Galleryold />
       <WhyChooseUs />
       <Contact />
       <Footer />

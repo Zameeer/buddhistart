@@ -12,168 +12,113 @@ import {
 
 const projects = [
   {
-    title: "TSOKNYI GECHAK LING MONASTERY",
-
-    location: "CHOBER, KATHMANDU, NEPAL",
+    title: "Gargonling Monastery",
+    location: "ICCHANGGU SWAYAMBU, KATHMANDU, NEPAL",
     images: [
-      "/urgen/Katmandu/katmandu (7).jpg",
-      "/urgen/Katmandu/DS_Rinpoche.jpeg",
-      "/urgen/Katmandu/hero1.jpg",
-      "/urgen/Katmandu/DS_Rinpoche2.jpeg",
-      "/urgen/Katmandu/katmandu (1).jpg",
-      "/urgen/Katmandu/katmandu (2).jpg",
-      "/urgen/Katmandu/katmandu (3).jpg",
-      "/urgen/Katmandu/katmandu (4).jpg",
-      "/urgen/Katmandu/katmandu (5).jpg",
-      "/urgen/Katmandu/katmandu (6).jpg",
-      "/urgen/Katmandu/katmandu (8).jpg",
-      "/urgen/Katmandu/katmandu (9).jpg",
-      "/urgen/Katmandu/katmandu (10).jpg",
-      "/urgen/Katmandu/katmandu (11).jpg",
-      "/urgen/Katmandu/katmandu (12).jpg",
-      "/urgen/Katmandu/katmandu (13).jpg",
-      "/urgen/Katmandu/katmandu (15).jpg",
+      "urgen/Urgen new stuff/underconstruction/underconstruction2.jpeg",
+      "urgen/Urgen new stuff/underconstruction/underconstruction3.jpeg",
+      "urgen/Urgen new stuff/underconstruction/underconstruction1.jpeg",
+      "urgen/Urgen new stuff/underconstruction/underconstruction.jpeg",
     ],
     details: {
-      CLIENT: "DRUBWANG TSOKNYI RINPOCHE",
-      "Year of Work": "2020-2024",
+      "Year of Work": "IN Progress",
     },
   },
   {
     title: "SHANDOK PALRI MONASTERY",
     location: "SYALA, GORKHA, NEPAL",
     images: [
-      "/urgen/Manaslu_Nepal/samagaun-monastery-scaled.jpg",
-      "/urgen/Manaslu_Nepal/Manslu (5).jpg",
-      "/urgen/Manaslu_Nepal/DSD. Rinpoche.jpeg",
-      "/urgen/Manaslu_Nepal/Manslu (2).jpg",
-      "/urgen/Manaslu_Nepal/Manslu (4).jpg",
+      "urgen/Urgen new stuff/spot/spot3.jpeg",
+      "urgen/Urgen new stuff/spot/spot1.jpeg",
+      "urgen/Urgen new stuff/spot/spot2.jpeg",
+      "urgen/Urgen new stuff/spot/spot4.jpeg",
+      "urgen/Urgen new stuff/spot/spot5.jpeg",
+      "urgen/Urgen new stuff/spot/spot.jpeg",
     ],
     details: {
       CLIENT: "DRUWANG SONAM DORJE RINPOCHE",
     },
   },
   {
-    title: " GURU PADMA SAMVABA STATUE",
-    location: "MUKTINATH, MUSTANG, NEPAL",
+    title: " Our Craftsmen",
     images: [
-      "/urgen/Mustang_Nepal/statue.jpeg",
-      "/urgen/Mustang_Nepal/muktinath.jpg",
-      "/urgen/Mustang_Nepal/statue.jpeg",
+      "urgen/Urgen new stuff/workers/workers (1).jpeg",
+      "urgen/Urgen new stuff/workers/workers (2).jpeg",
+      "urgen/Urgen new stuff/workers/workers (3).jpeg",
+      "urgen/Urgen new stuff/workers/workers (4).jpeg",
+      "urgen/Urgen new stuff/workers/workers (5).jpeg",
+      "urgen/Urgen new stuff/workers/workers (6).jpeg",
+      "urgen/Urgen new stuff/workers/workers (7).jpeg",
+      "urgen/Urgen new stuff/workers/workers (8).jpeg",
+      "urgen/Urgen new stuff/workers/workers (9).jpeg",
+      "urgen/Urgen new stuff/workers/workers (10).jpeg",
+      "urgen/Urgen new stuff/workers/workers (11).jpeg",
+      "urgen/Urgen new stuff/workers/workers (12).jpeg",
+      "urgen/Urgen new stuff/workers/workers.jpeg",
     ],
-    details: {
-      "Year of Work": "2016",
-    },
+    details: {},
   },
   {
-    title: " Triten Norbutse Bonpo Monastery",
-    location: "Ichangun, Kathmandu, Nepal",
+    title: " More inprogress projects",
     images: [
-      "/urgen/Nepal_Kathmandu/hero3.jpg",
-      "/urgen/Nepal_Kathmandu/Rinpoche.jpeg",
-      "/urgen/Nepal_Kathmandu/img1.jpeg",
-      "/urgen/Nepal_Kathmandu/img2.jpeg",
+      "urgen/Urgen new stuff/images/image (1).jpeg",
+      "urgen/Urgen new stuff/images/image (2).jpeg",
+      "urgen/Urgen new stuff/images/image (3).jpeg",
+      "urgen/Urgen new stuff/images/image (4).jpeg",
+      "urgen/Urgen new stuff/images/image (5).jpeg",
+      "urgen/Urgen new stuff/images/image (6).jpeg",
+      "urgen/Urgen new stuff/images/image (7).jpeg",
+      "urgen/Urgen new stuff/images/image (8).jpeg",
+      "urgen/Urgen new stuff/images/image (9).jpeg",
+      "urgen/Urgen new stuff/images/image (10).jpeg",
+      "urgen/Urgen new stuff/images/image (11).jpeg",
+      "urgen/Urgen new stuff/images/image (12).jpeg",
+      "urgen/Urgen new stuff/images/image (13).jpeg",
+      "urgen/Urgen new stuff/images/image (14).jpeg",
+      "urgen/Urgen new stuff/images/image (15).jpeg",
+      "urgen/Urgen new stuff/images/image (16).jpeg",
+      "urgen/Urgen new stuff/images/image (17).jpeg",
+      "urgen/Urgen new stuff/images/image (18).jpeg",
+      "urgen/Urgen new stuff/images/image (19).jpeg",
+      "urgen/Urgen new stuff/images/image (20).jpeg",
+      "urgen/Urgen new stuff/images/image (21).jpeg",
+      "urgen/Urgen new stuff/images/image (22).jpeg",
+      "urgen/Urgen new stuff/images/image (23).jpeg",
+      "urgen/Urgen new stuff/images/image (24).jpeg",
+      "urgen/Urgen new stuff/images/image (25).jpeg",
+      "urgen/Urgen new stuff/images/image (26).jpeg",
+      "urgen/Urgen new stuff/images/image (27).jpeg",
+      "urgen/Urgen new stuff/images/image (28).jpeg",
+      "urgen/Urgen new stuff/images/image (29).jpeg",
+      "urgen/Urgen new stuff/images/image (30).jpeg",
+      "urgen/Urgen new stuff/images/image (31).jpeg",
+      "urgen/Urgen new stuff/images/image (32).jpeg",
+      "urgen/Urgen new stuff/images/image (33).jpeg",
+      "urgen/Urgen new stuff/images/image (34).jpeg",
+      "urgen/Urgen new stuff/images/image (35).jpeg",
+      "urgen/Urgen new stuff/images/image (36).jpeg",
+      "urgen/Urgen new stuff/images/image (37).jpeg",
+      "urgen/Urgen new stuff/images/image (38).jpeg",
+      "urgen/Urgen new stuff/images/image (39).jpeg",
+      "urgen/Urgen new stuff/images/image (40).jpeg",
+      "urgen/Urgen new stuff/images/image (41).jpeg",
+      "urgen/Urgen new stuff/images/image (42).jpeg",
+      "urgen/Urgen new stuff/images/image (43).jpeg",
+      "urgen/Urgen new stuff/images/image (44).jpeg",
+      "urgen/Urgen new stuff/images/image (45).jpeg",
+      "urgen/Urgen new stuff/images/image (46).jpeg",
+      "urgen/Urgen new stuff/images/image (47).jpeg",
+      "urgen/Urgen new stuff/images/image (48).jpeg",
+      "urgen/Urgen new stuff/images/image (49).jpeg",
+      "urgen/Urgen new stuff/images/image (50).jpeg",
+      "urgen/Urgen new stuff/images/image.jpeg",
     ],
-    details: {
-      CLIENT: "His Eminence Yongdzin Lopon Tenzin Namdak Rinpoche",
-
-      "Year of Work": "2024",
-    },
+    details: {},
   },
-  {
-    title: " Rinchen Chholing Monastery",
-    location: "Meghi Dara, Rinchenpong, West Sikkim, India",
-    images: [
-      "/urgen/Rinchenpong/hero2.jpg",
-      "/urgen/Rinchenpong/HH Rinpoche.jpeg",
-      "/urgen/Rinchenpong/img (1).jpeg",
-      "/urgen/Rinchenpong/img (1).jpg",
-      "/urgen/Rinchenpong/img (2).jpg",
-      "/urgen/Rinchenpong/img (3).jpg",
-      "/urgen/Rinchenpong/Sikkim's Chief Minister with Rinpoche.jpg",
-    ],
-    details: {
-      CLIENT: "His eminence Tulku Sangay Yonten Gyatsho Rinpoche",
-
-      "Year of Work": "2024",
-    },
-  },
-  {
-    title: " SAKYA TENGYUD KOMIC- KAZA MONASTERY",
-    location: "HIMACHAL PRADESH, India",
-    images: [
-      "/urgen/Himachal_Pradesh_2007/spiti_monastery.jpg",
-      "/urgen/Himachal_Pradesh_2007/HH_Rinpoche.jpg",
-      "/urgen/Himachal_Pradesh_2007/spiti_monastery1.jpg",
-      "/urgen/Himachal_Pradesh_2007/spiti_monastery3.jpg",
-      "/urgen/Himachal_Pradesh_2007/spiti_monastery4.jpg",
-      "/urgen/Himachal_Pradesh_2007/HH Rinpoche.jpg",
-      "/urgen/Himachal_Pradesh_2007/IMG-20250412-WA0048.jpg",
-    ],
-    details: {
-      CLIENT: "His Eminence Ngor Khangsar Shabdrung Rinpoche",
-
-      "Year of Work": "2007",
-    },
-  },
-  {
-    title: " Terkarmo Tingmosgang old Drikung Kagyu Monastery",
-    location: "Jammu, Kashmir, Ladakh, India",
-    images: [
-      "/urgen/Jammu_Kashmir_Ladakh/IMG-20250412-WA0053.jpg",
-      "/urgen/Jammu_Kashmir_Ladakh/KK. Rangdol.jpg",
-      "/urgen/Jammu_Kashmir_Ladakh/KK_Rangdol.jpg",
-    ],
-    details: {
-      CLIENT: "Khenpo Konchok Rangdol",
-
-      "Year of Work": "2009",
-    },
-  },
-  {
-    title: " Hotels & Interior Design",
-    location: "Worldwide",
-    images: [
-      "/urgen/Interior_hotels/img (1).jpg",
-      "/urgen/Interior_hotels/img (2).jpg",
-      "/urgen/Interior_hotels/img (3).jpg",
-      "/urgen/Interior_hotels/img (4).jpg",
-      "/urgen/Interior_hotels/img (5).jpg",
-      "/urgen/Interior_hotels/img (6).jpg",
-      "/urgen/Interior_hotels/img (7).jpg",
-      "/urgen/Interior_hotels/img (8).jpg",
-      "/urgen/Interior_hotels/img (9).jpg",
-      "/urgen/Interior_hotels/img (10).jpg",
-      "/urgen/Interior_hotels/img (11).jpg",
-      "/urgen/Interior_hotels/img (12).jpg",
-      "/urgen/Interior_hotels/img (13).jpg",
-      "/urgen/Interior_hotels/img (14).jpg",
-      "/urgen/Interior_hotels/img (15).jpg",
-      "/urgen/Interior_hotels/img (16).jpg",
-      "/urgen/Interior_hotels/img (17).jpg",
-      "/urgen/Interior_hotels/img (18).jpg",
-      "/urgen/Interior_hotels/img (19).jpg",
-      "/urgen/Interior_hotels/img (20).jpg",
-      "/urgen/Interior_hotels/img (21).jpg",
-      "/urgen/Interior_hotels/img (22).jpg",
-      "/urgen/Interior_hotels/img (23).jpg",
-      "/urgen/Interior_hotels/img (24).jpg",
-      "/urgen/Interior_hotels/img (25).jpg",
-      "/urgen/Interior_hotels/img (26).jpg",
-      "/urgen/Interior_hotels/img (27).jpg",
-      "/urgen/Interior_hotels/img (28).jpg",
-      "/urgen/Interior_hotels/img (29).jpg",
-    ],
-    details: {
-      Description:
-        "We have worked on various hotels and interior designs, creating unique and beautiful spaces that reflect Buddhist culture and traditions of the region. Our team of skilled artisans and designers work closely with clients to bring their vision to life, ensuring that every detail is perfect.",
-    },
-  },
-
   // Add more...
 ];
 
-export default function Gallery() {
+export default function Galleryold() {
   const [hoverIndex, setHoverIndex] = useState<number | null>(null);
   const [selectedProject, setSelectedProject] = useState<number | null>(null);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -249,15 +194,12 @@ export default function Gallery() {
   };
 
   return (
-    <section id="gallery" className="py-20 bg-gray-50">
+    <section id="gallery" className="pt-8 pb-20 bg-gray-50">
       <div className="container mx-auto px-4">
-        <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Project Gallery
-          </h2>
+        <div className="text-center mb-8">
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Explore our previous projects and the sacred art we've created for
-            various spaces.
+            Explore our inprogress projects, showcasing the beauty and
+            craftsmanship of Buddhist art and architecture.
           </p>
         </div>
 
